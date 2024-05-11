@@ -1,0 +1,138 @@
+.logo img {
+    width: 200px;
+    box-shadow: 1px 1px 5px black;   
+}
+
+.logo {
+    text-align: center;
+}
+
+.navigation-item{
+    background-color: #F4F4F4;
+    text-align: center;
+    margin-right: 5px;
+    padding: 1%  4%;
+}
+
+.navigation-item:hover {
+    background-color: #DEA821;
+    transition: 1.1s;
+    color: #fff;
+}
+
+.banner-bg {
+    background-image: url(../assets/bannerMain.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.bg-overlay {
+    background-color: rgba(0, 0, 0, 0.521);
+    height: 400px;
+    padding: 50px
+}
+
+.banner-content {
+    background-color: #DEA821;
+    width: 50%;
+    margin: 5px auto;
+    font-size: 44px;
+}
+
+.img-container img {
+    height: 300px;
+}
+
+
+
+.carousel-item img {
+    height: 400px;
+}
+/* Facility CSS */
+.facility-title{
+    color: #41BAAE;
+    background-color: #1D486D;
+    padding: 10px 0;
+    font-size: 46px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.facility-content-container {
+    color: #fff;
+}
+
+.facility-content-container img {
+    width: 50px;
+    filter: invert();
+}
+
+.facility-content-container h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin: 15px 0;
+}
+
+.facility-content-container p {
+    padding: 0 40px;
+    font-size: 15px;
+}
+
+.bgBlack {
+background-color: #000000;
+}
+
+.bgGreen {
+    background-color: #2B7C74;
+}
+
+.bgYellow {
+    background-color: #DEA821;
+}
+
+.bgOrange {
+    background-color: #DE5F28;
+}
+/* *********************************** */
+
+/* About CSS */
+
+.aboutContainer p {
+    padding: 0 150px;
+    font-size: 18px;
+}
+
+.title {
+    font-size: 52px; 
+}
+/* *********************************** */
+
+/* Get In Touch CSS */
+
+.bgSec {
+    background-color: #2B7C74;
+}   
+
+.gitTitle {
+    color: #fff;
+    font-weight: 700;
+    font-size: 52px;
+}
+
+.gitSubTitle {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 400;
+
+}
+
+.directIcon {
+    width: 100px;
+    margin: auto;
+}
+
